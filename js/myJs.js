@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Giờ thì gặp lại em nào hihi :3 em yêu Híp nhiều ạ :3",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'http://fb.com';
+                    window.location = 'https://www.facebook.com';
                   }
             })
         }
